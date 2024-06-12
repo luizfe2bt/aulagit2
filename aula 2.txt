@@ -1,0 +1,1 @@
+print('o segundo b tecnico e o melhor")
